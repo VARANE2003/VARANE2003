@@ -7,7 +7,7 @@
 
  <h2>  Certifications</h2>
 
- 
+ - [On the pursuit of them...]
 
 
 <h2>📺 Popular YouTube Videos</h2>
