@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Bash Scripting Practice</b>
-  - [Practising Bash Scripting in cmd environment](https://github.com/VARANE2003/Bash_Scripting)
+  - [Practising Bash Scripting & Scheduling Algorithms](https://github.com/VARANE2003/Bash_Scripting)
 
  <h2>  Certifications</h2>
 
