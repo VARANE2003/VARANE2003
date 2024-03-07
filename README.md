@@ -8,7 +8,7 @@
 - <b>Handling CSV files</b>
   - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
  
-<h2>Hardware Projects:</h2>
+<h2>🛠️Hardware Projects:</h2>
 
 - <b>Microwind Simulator</b>
   - [Experimenting with Microwind circuits simulator tool](https://github.com/VARANE2003/Microwind-Circuits-Simulations)
