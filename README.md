@@ -11,8 +11,7 @@
 <h2>Hardware Projects:</h2>
 
 - <b>Microwind Simulator</b>
-
- - [Experimenting with Microwind circuits simulator tool](https://github.com/VARANE2003/Microwind-Circuits-Simulations)
+  - [Experimenting with Microwind circuits simulator tool](https://github.com/VARANE2003/Microwind-Circuits-Simulations)
   
  <h2>  Certifications</h2>
 
