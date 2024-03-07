@@ -4,6 +4,8 @@
 
 - <b>Bash Scripting Practice</b>
   - [Practising Bash Scripting & Scheduling Algorithms](https://github.com/VARANE2003/Bash_Scripting)
+  - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
+  - [Experimenting with Microwind circuits simulator tool](https://github.com/VARANE2003/Microwind-Circuits-Simulations)
 
  <h2>  Certifications</h2>
 
