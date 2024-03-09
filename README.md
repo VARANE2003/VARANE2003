@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Bash Scripting Practice</b>
+- <b>Undergraduate OS Project 2023-2024</b>
   - [Practising Bash Scripting & Scheduling Algorithms](https://github.com/VARANE2003/Bash_Scripting)
 
 - <b>Handling CSV files</b>
