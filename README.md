@@ -8,6 +8,9 @@
 - <b>Handling CSV files</b>
   - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
  
+- <b>Building a RPN Calculator in JAVA</b>
+  - [RPN Calculator](https://github.com/VARANE2003/RPN-Calculator)
+ 
 <h2>🛠️Hardware Projects:</h2>
 
 - <b>Microwind Simulator</b>
