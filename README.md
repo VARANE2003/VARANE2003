@@ -18,6 +18,9 @@
 
 - <b>Microwind Simulator</b>
   - [Experimenting with Microwind circuits simulator tool](https://github.com/VARANE2003/Microwind-Circuits-Simulations)
+
+- <b>Verilog Programming</b>
+  - [Learning to code in Verilog and SystemVerilog](https://github.com/VARANE2003/Verilog-Programming)
   
  <h2>  Certifications</h2>
 
