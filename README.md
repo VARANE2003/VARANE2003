@@ -28,7 +28,7 @@
 
 
 <h2>📺 Popular YouTube Videos</h2>
-- [How to get into Bash Scripting Starting From Zero]()
+- [...]()
 
 
 <h2> 🤳 Connect with me:</h2>
