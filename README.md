@@ -5,6 +5,9 @@
 - <b>Undergraduate OS Project 2023-2024</b>
   - [Practising Bash Scripting & Scheduling Algorithms](https://github.com/VARANE2003/Bash_Scripting)
 
+- <b>Undergraduate DB Project 2023-2024</b>
+  - [Creating & Initialising a DB, implementing Stored Procedures & Triggers](https://github.com/VARANE2003/DATABASES-PROJECT-2023-24)
+
 - <b>Handling CSV files</b>
   - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
  
