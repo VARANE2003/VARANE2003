@@ -9,7 +9,7 @@
   - [Creating & Initialising a DB, Stored Procedures & Triggers Implementation](https://github.com/VARANE2003/DATABASES-PROJECT-2023-24)
 
 - <b>Parallel Processing</b>
-  - [Set of Exercises Focused On Parallel Programming](https://github.com/VARANE2003/Parallel-Processing)
+  - [Familiarize with Parallel Programming Principles through exercises](https://github.com/VARANE2003/Parallel-Processing)
 
 - <b>Handling CSV files</b>
   - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
