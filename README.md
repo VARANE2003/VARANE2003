@@ -29,7 +29,7 @@
   - [Understanding Signal Processing concepts through writing and executing Matlab scripts](https://github.com/VARANE2003/Signal-Processing-Matlab)
   
 - <b> BPM-Counter-Raspberry-Pi</b>
-  - [Coming Soon...]()
+  - [Coming Soon...](https://github.com/VARANE2003/BPM-Counter-Raspberry-Pi)
   
  
  <h2>  Certifications</h2>
