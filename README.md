@@ -9,7 +9,7 @@
   - [Creating & Initialising a DB, Stored Procedures & Triggers Implementation](https://github.com/VARANE2003/DATABASES-PROJECT-2023-24)
  
 - <b>Undergraduate Flex-Bison Project 2023-2024</b>
-  - [Building a compiler for a specific programming language using Flex lexical analyzer and Bison parser generator for CFLs](https://github.com/VARANE2003/Flex-Bison-Project-2024)
+  - [Building a compiler for an imaginary programming language using Flex lexical analyzer and Bison parser generator for CFLs](https://github.com/VARANE2003/Flex-Bison-Project-2024)
 
 - <b>Parallel Processing</b>
   - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
