@@ -40,7 +40,7 @@
  
  <h2>  Certifications</h2>
 
- - On the pursuit of them...
+ - On the pursuit of them... 📈
    <br>Bill Gates quote: "Patience is a key element of success."
 
 
