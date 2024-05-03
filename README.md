@@ -40,8 +40,8 @@
  
  <h2>  Certifications</h2>
 
- - [On the pursuit of them...
-   <br>Bill Gates quote - Patience is a key element of success...]
+ - On the pursuit of them...
+   <br>Bill Gates quote - Patience is a key element of success.
 
 
 <h2>📺 Popular YouTube Videos</h2>
