@@ -45,7 +45,7 @@
 
 
 <h2>📺 Popular YouTube Videos</h2>
-- [...]()
+- Maybe in the future 🤔
 
 
 <h2> 🤳 Connect with me:</h2>
