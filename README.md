@@ -14,7 +14,7 @@
 - <b>Undergraduate Parallel Processing Project 2023-2024</b>
   - [Soon...](https://github.com/VARANE2003/Parallel-Processing-Project-24)
 
-- <b>Parallel Processing</b>
+- <b>Parallel Programming</b>
   - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
 
 - <b>Handling CSV files</b>
