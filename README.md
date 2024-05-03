@@ -11,6 +11,9 @@
 - <b>Undergraduate Flex-Bison Project 2023-2024</b>
   - [Building a compiler for an imaginary programming language using Flex lexical analyzer and Bison parser generator for CFLs](https://github.com/VARANE2003/Flex-Bison-Project-2024)
 
+- <b>Undergraduate Parallel Processing Project 2023-2024</b>
+  - []()
+
 - <b>Parallel Processing</b>
   - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
 
