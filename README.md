@@ -22,7 +22,12 @@
  
 - <b>Building a RPN Calculator in JAVA</b>
   - [RPN Calculator](https://github.com/VARANE2003/RPN-Calculator)
+
+
+- <b>Learning Matlab for Scientific Computing</b>
+  - [Scientific Computing with Matlab](https://github.com/VARANE2003/Scientific-Computing)
  
+  
 <h2>🛠️Hardware Projects:</h2>
 
 - <b>Microwind Simulator</b>
