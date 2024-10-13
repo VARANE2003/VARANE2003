@@ -21,8 +21,8 @@
   - [Scientific Computing with Matlab](https://github.com/VARANE2003/Scientific-Computing)
 
  
-- <b>Learning Python</b>
-  - [Python & real world problem solving](https://github.com/VARANE2003/Python)
+- <b>Python & Data Alalytics</b>
+  - [Python](https://github.com/VARANE2003/Python)
 
 
 - <b>Building a RPN Calculator in JAVA</b>
