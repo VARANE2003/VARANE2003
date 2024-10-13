@@ -17,16 +17,15 @@
 - <b>Parallel Programming</b>
   - [Familiarize with Parallel Programming Principles through exercises in C programming language](https://github.com/VARANE2003/Parallel-Processing)
 
-- <b>Handling CSV files</b>
-  - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
- 
+- <b>Learning Matlab for Scientific Computing</b>
+  - [Scientific Computing with Matlab](https://github.com/VARANE2003/Scientific-Computing)
+
 - <b>Building a RPN Calculator in JAVA</b>
   - [RPN Calculator](https://github.com/VARANE2003/RPN-Calculator)
 
-
-- <b>Learning Matlab for Scientific Computing</b>
-  - [Scientific Computing with Matlab](https://github.com/VARANE2003/Scientific-Computing)
- 
+- <b>Handling CSV files</b>
+  - [Processing CSV files](https://github.com/VARANE2003/CSV-PROCESSING)
+  
   
 <h2>🛠️Hardware Projects:</h2>
 
